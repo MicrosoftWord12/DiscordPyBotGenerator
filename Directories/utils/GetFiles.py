@@ -1,5 +1,4 @@
 import os
-from pathlib import Path
 
 # Should Get config file
 configFile = os.path.join(os.path.dirname, "../../Templates/Config/Config.json")
